@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/help"
+        android:title="Ayuda"
+        android:icon="@drawable/ic_help"
+        />
+
+    <item
+        android:id="@+id/mapFragment"
+        android:title="Mapa"
+        android:icon="@drawable/ic_ubication"
+        />
+
+
+    <item
+        android:id="@+id/experiencesFragment"
+        android:title="Experiencias"
+        android:icon="@drawable/ic_experiences"
+        />
+
+
+    <item
+        android:id="@+id/storeFragment"
+        android:title="Tiendas"
+        android:icon="@drawable/ic_stores"
+        />
+
+
+
+</menu>

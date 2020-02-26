@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miCompose"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"
+        android:title="Compose">
+
+        </item>
+    <item
+        android:id="@+id/coins"
+        android:icon="@drawable/ic_coins"
+        app:showAsAction="ifRoom|withText"
+        android:title="coins">
+    </item>
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_tourist"
+        app:showAsAction="ifRoom|withText"
+        android:title="Profile">
+    </item>
+</menu>
